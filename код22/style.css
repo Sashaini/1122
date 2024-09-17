@@ -1,0 +1,12 @@
+body{
+    background-color:rgb(180, 15, 167);
+}
+ul li{
+    display: inline;
+}
+/*коменты*/
+#title{
+    border: 2px solid red;
+    width: 600px;
+    height: 100vh;
+}
